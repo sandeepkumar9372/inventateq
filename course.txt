@@ -1,0 +1,8 @@
+linus
+aws
+devops
+git
+ansible
+docker
+kubernetes
+terraform
