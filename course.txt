@@ -7,3 +7,4 @@ docker
 kubernetes
 terraform
 splunk
+jenkins (CI/CD)
