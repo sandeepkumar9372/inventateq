@@ -1,0 +1,7 @@
+--linux
+--git
+--aws
+--jenkins
+--docker
+--kubernetes
+--ansible
