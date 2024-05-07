@@ -8,3 +8,4 @@ kubernetes
 terraform
 splunk
 jenkins (CI/CD)
+aws lambda
