@@ -1,4 +1,4 @@
-linus
+linux
 aws
 devops
 git
@@ -6,3 +6,4 @@ ansible
 docker
 kubernetes
 terraform
+splunk
