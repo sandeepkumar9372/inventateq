@@ -6,3 +6,4 @@ Total 3 (delta 1), reused 0 (delta 0)
 To some-URL/MyDestinationRepo
    a5ba4ed..250f6c3  main -> main
 Counting objects: 5, done.
+for the git repo
