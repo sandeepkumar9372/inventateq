@@ -12,3 +12,7 @@
 
 6. `git log`: Display the commit history.
    - `git log --oneline`: Display the commit history in a compact format.
+6. `git log`: Display the commit history.
+   - `git log --oneline`: Display the commit history in a compact format.
+6. `git log`: Display the commit history.
+   - `git log --oneline`: Display the commit history in a compact format.
