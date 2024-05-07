@@ -1,7 +1,14 @@
---linux
---git
---aws
---jenkins
---docker
---kubernetes
---ansible
+
+1. `git init`: Initialize a new Git repository in the current directory.
+
+2. `git clone <repository>`: Clone an existing repository to your local machine.
+
+3. `git add <file>`: Stage changes in a specific file for the next commit.
+   - `git add .`: Stage all changes in the current directory.
+
+4. `git commit -m "message"`: Commit staged changes with a descriptive message.
+
+5. `git status`: Show the current status of the repository, including staged and unstaged changes.
+
+6. `git log`: Display the commit history.
+   - `git log --oneline`: Display the commit history in a compact format.
